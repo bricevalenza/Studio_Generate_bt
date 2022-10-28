@@ -15,7 +15,10 @@ Le fichier .md contient l'UUID de la lunii (présent à la racine de la carte SD
 	- Renommer le repertoire du pack (_converted) en conservant les 8 dernier caractère en majuscule;
 	- Dans la carte SD ouvrir le fichier .pi à la racine  avec un éditeur hexadecimal Hxd
 	- Rajouter une ligne avec a la fin les 8 dernier caractère (le début de la ligne importe peu)
-![image](https://user-images.githubusercontent.com/799962/198629394-e50d7560-3417-40ab-839e-809614392b83.png)
+![image](https://user-images.githubusercontent.com/799962/198634402-9f38b32e-d471-4055-b71a-46a72d47822d.png)
+
+
+
 	- Copier le repertoire de l'histoire dans la Lunii dossier ;content (avec les autres)
 	- 
 ![image](https://user-images.githubusercontent.com/799962/198630134-1dbf0e26-38d2-460e-9df9-3e3a55c5113e.png)

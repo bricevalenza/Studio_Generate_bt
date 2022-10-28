@@ -1,6 +1,13 @@
 # Studio_Generate_bt
 
-!!!! Le code est pas propre, c'est de la bidouille mais ça répondait à mon besoin simple, sans pour autant partir sur un developpement complexe que je ne saurai pas faire de toute façon !!
+!!!! 
+
+Le code est pas propre, c'est de la bidouille mais ça répondait à mon besoin simple, sans pour autant partir sur un developpement complexe que je ne saurai pas faire de toute façon.
+
+j'ai mis le ZIP du projet Eclipse (j'ai juste lever la partie web-ui qui est lourde et me sert a rien, ça ce passe dans \core\src\main\java et le repertoire où mettre le md et le ri (+ sortie bt) est dans : studio\core\BT
+
+
+!!
 
 Le fichier .md contient l'UUID de la lunii (présent à la racine de la carte SD)
 	- Intégrer l'histoire dans Studio, puis convertir le pack dans Studio en version Fs;

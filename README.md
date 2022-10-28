@@ -4,7 +4,7 @@
 
 Le fichier .md contient l'UUID de la lunii (présent à la racine de la carte SD)
 	- Intégrer l'histoire dans Studio, puis convertir le pack dans Studio en version Fs;
-	- Se rendre ici : C:\Users\USER\.studio\library
+	- Se rendre ici : C:\Users\USER\\.studio\library
 	- Un dossier _converted apparait : c'est l'histoire au format FS.
 	- Récupérer  le fichier ri à l'intérieur
 	

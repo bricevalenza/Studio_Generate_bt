@@ -1,3 +1,7 @@
+# Update 2024:
+Ce logiciel permet de gérer et d'ajouter des histoires directements depuis la carte SD inséré dans un PC : 
+https://github.com/o-daneel/Lunii.QT?tab=readme-ov-file#supported-archive-formats-lunii
+
 # Studio_Generate_bt
 
 !!!! 
